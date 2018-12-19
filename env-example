@@ -1,0 +1,12 @@
+####### Repository data analysis #######
+
+# SET Github Development Token to search for repos in Github
+OAUTH_TOKEN=
+# SET Header with proper authorization
+GITHUB_HEADER="Authorization: token ${OAUTH_TOKEN}"
+# Path to CSV generated files
+CSV_PATH="/path/to/csv/folder"
+# Directive to tell the program to debug a specif line on post filter process
+DEBUG_LINE=false
+# Line to debug. The line represent the entry on filtered_repo_info.csv
+LINE=7
