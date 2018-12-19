@@ -1,0 +1,9 @@
+[submodule "lib/mapnik-query-analyzer"]
+	path = lib/mapnik-query-analyzer
+	url = git@github.com:mateusbs17/mapnik-query-analyzer.git
+[submodule "lib/maps-cassandra-dumper"]
+	path = lib/maps-cassandra-dumper
+	url = git@github.com:gehel/maps-cassandra-dumper.git
+[submodule "lib/tilerator-analyzer"]
+	path = lib/tilerator-analyzer
+	url = git@github.com:mateusbs17/tilerator-analyzer.git
